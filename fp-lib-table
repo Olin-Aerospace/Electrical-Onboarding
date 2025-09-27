@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Bosch_IMU_footprints")(type "KiCad")(uri "C:/Users/rosal/OneDrive - Olin College of Engineering/Documents/Avionics/AERO/Onboarding/footprints/Bosch_IMU_footprints.pretty")(options "")(descr ""))
+  (lib (name "DRV8210PDSGRfootprints")(type "KiCad")(uri "C:/Users/rosal/OneDrive - Olin College of Engineering/Documents/Avionics/AERO/Onboarding/footprints/DRV8210PDSGRfootprints.pretty")(options "")(descr ""))
+  (lib (name "ESP32footprints")(type "KiCad")(uri "C:/Users/rosal/OneDrive - Olin College of Engineering/Documents/Avionics/AERO/Onboarding/footprints/ESP32footprints.pretty")(options "")(descr ""))
+  (lib (name "AP7366_33W5_7")(type "KiCad")(uri "C:/Users/rosal/OneDrive - Olin College of Engineering/Documents/Avionics/AERO/Onboarding/AP7366_33W5_7")(options "")(descr ""))
+)

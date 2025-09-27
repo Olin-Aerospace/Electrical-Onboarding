@@ -3565,7 +3565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BMI323_BOS"
+		(property "Footprint" "Bosch_IMU_footprints:BMI323_BOS"
 			(at 187.96 104.14 0)
 			(effects
 				(font
@@ -4478,7 +4478,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ESP32footprints:ESP32­WROOM­32E_EXP"
 			(at 142.24 64.77 0)
 			(effects
 				(font
@@ -4683,7 +4683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DSG0008A-IPC_A"
+		(property "Footprint" "DRV8210PDSGRfootprints:BMI323_BOS"
 			(at 195.58 53.34 0)
 			(effects
 				(font
@@ -4906,7 +4906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AP7366-33W5-7:SOT95P285X140-5N"
+		(property "Footprint" "AP7366_33W5_7:SOT95P285X140-5N"
 			(at 77.47 43.18 0)
 			(effects
 				(font
