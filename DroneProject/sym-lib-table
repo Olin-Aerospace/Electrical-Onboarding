@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP7366-33W5-7")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/AP7366-33W5-7.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI323")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/BMI323.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8210DSGR")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/DRV8210DSGR.kicad_sym")(options "")(descr ""))
+  (lib (name "ISM330DHCXTR")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/ISM330DHCXTR.kicad_sym")(options "")(descr ""))
+  (lib (name "MP6543HGL-B-Z")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/MP6543HGL-B-Z.kicad_sym")(options "")(descr ""))
+  (lib (name "TS04-66-50-BK-260-SMT")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TS04-66-50-BK-260-SMT.kicad_sym")(options "")(descr ""))
+)
