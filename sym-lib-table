@@ -4,4 +4,5 @@
   (lib (name "BMI323")(type "KiCad")(uri "${KIPRJMOD}/BMI323.kicad_sym")(options "")(descr ""))
   (lib (name "2025-09-26_21-40-56")(type "KiCad")(uri "${KIPRJMOD}/2025-09-26_21-40-56.kicad_sym")(options "")(descr ""))
   (lib (name "AP7366-33W5-7")(type "KiCad")(uri "${KIPRJMOD}/AP7366-33W5-7.kicad_sym")(options "")(descr ""))
+  (lib (name "TS04-66-50-BK-260-SMT")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TS04-66-50-BK-260-SMT.kicad_sym")(options "")(descr ""))
 )
