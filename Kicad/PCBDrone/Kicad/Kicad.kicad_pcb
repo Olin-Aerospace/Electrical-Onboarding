@@ -14753,7 +14753,7 @@
 		(property "Reference" "U1"
 			(at -8.6 12.02 180)
 			(layer "F.SilkS")
-			(uuid "1511cea3-e8a4-456a-8e0e-a8be22623881")
+			(uuid "20a63699-d2b1-4a53-babd-1d6805e0db7d")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -14764,7 +14764,7 @@
 		(property "Value" "ESP32-WROOM-32E"
 			(at 0 11.5 0)
 			(layer "F.Fab")
-			(uuid "4adf7dfd-45d7-4d21-8ece-261812379ece")
+			(uuid "b507abcb-c0ca-4166-806f-2636cba600f6")
 			(effects
 				(font
 					(size 1 1)
@@ -14777,7 +14777,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ffe175d7-909f-4f8b-b013-de7bec37a1c4")
+			(uuid "4a4ad45a-fcf7-4bcd-afdd-d4744f811fc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14790,7 +14790,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1666c827-4d3b-46a3-957a-78dd1842295e")
+			(uuid "b9892087-8645-424f-81e3-d63ba145f045")
 			(effects
 				(font
 					(size 1.27 1.27)
